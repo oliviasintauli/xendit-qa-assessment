@@ -1,1 +1,1 @@
-# xendit-qa-assessment
+# qa-assessment
